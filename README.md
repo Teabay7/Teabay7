@@ -10,21 +10,21 @@ It classifies student performance based on **credit attainment**, **compulsory s
 
 The workbook consists of **5 sheets**:
 
-1. **Entry Sheet** 🖊️  
+1. **Entry Sheet** 🖊️  Data entry sheet.jpg
    - Input students’ **Exam Number**, **Gender**, and **subject grades** via dropdowns.  
    - Includes **School Name** and **Centre Number**.  
 
 2. **Database Sheet** 💾  
    - Master table of all student results used by formulas.
 
-3. **Result Analysis Sheet** 📊  
+3. **Result Analysis Sheet** 📊  Analysis sheet.jpg
    - Shows calculated columns, aggregations and conditional formatting.  
 
 4. **Result Summary Sheet** 🎯  
    - Calculates **5 & 4 credits**, including **Maths & English**, **English only**, and **Maths only**.  
    - Aggregates results **by gender**. 
 
-5. **Subject Analysis Sheet** 📈  
+5. **Subject Analysis Sheet** 📈  Subject Analysis.jpg
    - Shows **grades breakdown per subject**, with **Pass/Fail counts**, **Registered**, **Present**, and **Absent**.  
 
 
@@ -143,6 +143,5 @@ Dynamically retrieves student grades row-by-row
 
 ---
 
-## 📁 File Structure
 
 
