@@ -10,14 +10,14 @@ It classifies student performance based on **credit attainment**, **compulsory s
 
 The workbook consists of **5 sheets**:
 
-1. **Entry Sheet** 🖊️  [Data entry sheet] (https://github.com/Teabay7/Automated-WAEC-Result-Data-Entry-Excel-Sheet/blob/main/Data%20entry%20sheet.jpg)
+1. **Entry Sheet** 🖊️  [Data entry sheet](https://github.com/Teabay7/Automated-WAEC-Result-Data-Entry-Excel-Sheet/blob/main/Data%20entry%20sheet.jpg)
    - Input students’ **Exam Number**, **Gender**, and **subject grades** via dropdowns.  
    - Includes **School Name** and **Centre Number**.  
 
 2. **Database Sheet** 💾  
    - Master table of all student results used by formulas.
 
-3. **Result Analysis Sheet** 📊  Analysis sheet.jpg
+3. **Result Analysis Sheet** 📊  [Analysis sheet](https://github.com/Teabay7/Automated-WAEC-Result-Data-Entry-Excel-Sheet/blob/main/Analysis%20sheet.jpg)
    - Shows calculated columns, aggregations and conditional formatting.  
 
 4. **Result Summary Sheet** 🎯  
